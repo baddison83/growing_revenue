@@ -16,7 +16,7 @@ I led projects that were directly tied to growing a client from a 5-figure test 
     - merging and deduping values in lists
 - Resulting data set contains all the information below for sorting, filtering and audience creation based on interests.
 
-
+![My Image](enhancements_columns.png)
 
 
 2) I determined that media placements in our newsletters were leading to eCPA's for the client that were 25% below their expected. (Not described in detail in this repo)
