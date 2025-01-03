@@ -5,7 +5,7 @@ I led projects that were directly tied to growing a client from a 5-figure test 
 1) The lynch-pin of the first 5-figure test campaign was being able to identify users in our base that had interest in specific topics. Identifying these users was possible bc of a project that:
 - Extracted genre, topic and keyword from iMDB, TMDB and google books
 - Transforming data into dimension tables 
-- Pushing the resulting dimension table to mixpanel for easy access
+- Pushing the resulting dimension table to mixpanel for easy joining to user profiles
 
 ![My Image](title_enhancements.png)
 
