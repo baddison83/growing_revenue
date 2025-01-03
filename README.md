@@ -7,7 +7,7 @@ I led projects that were directly tied to growing a client from a 5-figure test 
 - Developing dimension tables for titles that containing genres, topics and keywords
 - Pushing the resulting dimension table to mixpanel for easy access
 
-#  image here
+![My Image](title_enhancements.png)
 
 
 2) I determined that media placements in our newsletters were leading to eCPA's for the client that were 25% below their expected
