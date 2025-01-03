@@ -17,5 +17,5 @@ I led projects that were directly tied to growing a client from a 5-figure test 
 - Identified over 1.5M users with interest in this topic (using the data provided in step 1)
 - Coined the name "Growthlist" for the custom product which was ultimately the winning idea. Designs shown below.
 
-# image here
+![My Image](growthlist.png)
 
