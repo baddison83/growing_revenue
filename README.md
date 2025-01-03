@@ -3,14 +3,23 @@
 I led projects that were directly tied to growing a client from a 5-figure test campaign to multiple 6-figure deals.
 
 1) The lynch-pin of the first 5-figure test campaign was being able to identify users in our base that had interest in specific topics. Identifying these users was possible bc of a project that:
-- ELT'd genre, topic and keyword info from iMDB, TMDB and google books into snowflake
-- Developing dimension tables for titles that containing genres, topics and keywords
+- Extracted genre, topic and keyword from iMDB, TMDB and google books
+- Transforming data into dimension tables 
 - Pushing the resulting dimension table to mixpanel for easy access
 
 ![My Image](title_enhancements.png)
 
+- The jupyter notebook in this repo contains moderately-cleaned code I made to munge thru the data to produce the dimension table I needed.
+    - indentifying and removing duplicates
+    - dealing with id and title mismatches
+    - joining data from multuple sources
+    - merging and deduping values in lists
+- Resulting data set contains all the information below for sorting, filtering and audience creation based on interests.
 
-2) I determined that media placements in our newsletters were leading to eCPA's for the client that were 25% below their expected
+
+
+
+2) I determined that media placements in our newsletters were leading to eCPA's for the client that were 25% below their expected. (Not described in detail in this repo)
 
 3) To help grow revenue from this client, I conceptualized and named a custom product.
 - The concept broadly speaking was "health, wellness & personal-development"
