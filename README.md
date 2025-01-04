@@ -9,6 +9,14 @@ I led projects that were directly tied to growing a client from a 5-figure test 
 
 ![My Image](title_enhancements.png)
 
+
+
+ - Say we were working with a partner that wanted to promote a title that was similar to "Narcos". We can then very quickly start to build a cohort of users interested in topics and themes like that in Narcos:
+
+![My Image](interest_search.png)
+
+
+
 - The jupyter notebook in this repo contains moderately-cleaned code I made to munge thru the data to produce the dimension table I needed.
     - indentifying and removing duplicates
     - dealing with id and title mismatches
@@ -19,7 +27,11 @@ I led projects that were directly tied to growing a client from a 5-figure test 
 ![My Image](enhancements_columns.png)
 
 
+
+
 2) I determined that media placements in our newsletters were leading to eCPA's for the client that were 25% below their expected. (Not described in detail in this repo)
+
+
 
 3) To help grow revenue from this client, I conceptualized and named a custom product.
 - The concept broadly speaking was "health, wellness & personal-development"
