@@ -13,8 +13,6 @@ I led projects that were directly tied to growing a client from a 5-figure test 
 
  - Say we were working with a partner that wanted to promote a title that was similar to "Narcos". We can then very quickly start to build a cohort of users interested in topics and themes like that in Narcos:
 
-![My Image](interest_search.png)
-
 
 
 - The jupyter notebook in this repo contains moderately-cleaned code I made to munge thru the data to produce the dimension table I needed.
